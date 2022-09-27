@@ -95,7 +95,6 @@ export default function LotteryEntrance() {
             message: "Transaction Complete!",
             title: "Transaction Notification",
             position: "topR",
-            icon: "bell",
         })
     }
 
